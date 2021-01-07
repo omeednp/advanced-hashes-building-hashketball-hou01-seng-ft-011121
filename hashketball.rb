@@ -87,6 +87,16 @@ def game_hash
           :blocks => 15,
           :slam_dunks => 10,
         },
+        { :player_name => "Desagna Diop",
+          :number => 2,
+          :shoe => 14,
+          :points => 24,
+          :rebounds => 4,
+          :assists => 7,
+          :steals => 22,
+          :blocks => 15,
+          :slam_dunks => 10,
+        },
         
       ]
     }
