@@ -1,5 +1,4 @@
 def game_hash
-  require 'pry'
   
   hashketball = {
     :home => {
@@ -96,7 +95,6 @@ def game_hash
           :steals => 4,
           :blocks => 5,
           :slam_dunks => 5,
-          binding.pry
         },
         { :player_name => "Ben Gordon",
           :number => 8,
