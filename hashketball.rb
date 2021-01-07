@@ -23,7 +23,7 @@ def game_hash
       :players => [
         {:player_name => "Jeff Adrien",	"Bismack Biyombo",	"DeSagna Diop",	"Ben Gordon",	"Kemba Walker"},
         {:number => 4	0	2	8	33},
-        {:shoe => },
+        {:shoe => 18	16	14	15	15},
         {:points => },
         {:rebounds => },
         {:assists => },
