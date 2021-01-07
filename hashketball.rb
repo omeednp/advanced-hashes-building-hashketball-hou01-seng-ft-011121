@@ -22,7 +22,7 @@ def game_hash
       :colors => ["Turquoise","Purple"],
       :players => [
         {:player_name => "Jeff Adrien",	"Bismack Biyombo",	"DeSagna Diop",	"Ben Gordon",	"Kemba Walker"},
-        {:number => },
+        {:number => 4	0	2	8	33},
         {:shoe => },
         {:points => },
         {:rebounds => },
