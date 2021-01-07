@@ -122,3 +122,5 @@ def game_hash
     
     
   }
+  return hashketball
+end
