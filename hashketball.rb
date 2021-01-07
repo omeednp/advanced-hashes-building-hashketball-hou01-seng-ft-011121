@@ -27,7 +27,7 @@ def game_hash
         {:points => 10	12	24	33	6},
         {:rebounds => 1	4	12	3	12},
         {:assists => 1	7	12	2	12},
-        {:steals => },
+        {:steals => 2	22	4	1	7},
         {:blocks => },
         {:slam_dunks => }
       ]
