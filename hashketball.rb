@@ -11,7 +11,7 @@ def game_hash
         {:shoe => 16,	14,	17,	19,	15,},
         {:points => 22,	12,	17,	26,	19},
         {:rebounds => 12,	12,	19,	11,	2},
-        {:assists => },
+        {:assists => 12,	12,	10,	6,	2},
         {:steals => },
         {:blocks => },
         {:slam_dunks => }
